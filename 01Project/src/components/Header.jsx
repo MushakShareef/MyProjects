@@ -7,7 +7,7 @@ import React from 'react'
 const Header = () => {
   return (
     <div className='headTop'>
-        <img className='headimg' src="./shivababa.png" alt="logo" width={60} height={60} />
+        <img className='headimg' src="/shivababa.png" alt="logo" width={60} height={60} />
         <h1>Om Shanthi</h1>
         {/* <button className='login' type='Login'>Login</button> */}
 
